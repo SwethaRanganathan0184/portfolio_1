@@ -9,7 +9,7 @@ function Navbar() {
         <Link to="/" className="home-link">Home</Link>
       </div>
       <div className="navbar-right">
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+        <a href="/Swetha_Ranganathan_resumeupdated copy.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
         <Link to="/publications">Publications</Link>
         <Link to="/quantum-content">Quantum Content</Link>
         <Link to="/favourite-reads">My Reads</Link> {/* New link for My Reads */}
