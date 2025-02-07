@@ -17,10 +17,15 @@ function QuantumContent() {
 
         {/* Card 2 */}
         <div className="quantum-card">
-          <h3 className="card-title">Research Paper</h3>
+          <h3 className="card-title">The Quantum World</h3>
           <p className="card-description">
-            Our hybrid protocol combining BB84 and Kyber for quantum secure communications was published in 
-            <b> IEEE ICTBIG2024</b>. A novel approach to quantum cryptography.
+            The Quantum World is a website I launched to explain and consolidate the knowledge required to understand Quantum Computing and Quantum Communication.
+            Check it out here: 
+            <a 
+                href="https://thequantumworld5.wordpress.com/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >The Quantum World</a>
           </p>
         </div>
 
