@@ -1,0 +1,37 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #1a1a2e;
+  color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar a {
+  color: #e94560; /* Maintain the initial color */
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.navbar a:visited {
+  color: #e94560; /* Ensures visited links retain the same color */
+}
+
+.navbar a:hover {
+  color: #f8d7da;
+}
+
+.navbar a:active {
+  color: #e94560; /* Ensures active links retain the same color */
+}
+
+.home-link {
+  font-weight: bold;
+  font-size: 1.3rem;
+}

@@ -1,0 +1,44 @@
+.interests {
+    padding: 40px 20px;
+    background-color: #1a1a2e;
+    color: white;
+    border-radius: 0px;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+    margin: 10px auto;
+    width: 90%; /* Occupies more screen space */
+    max-width: 1200px;
+  }
+  
+  .interests h1 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    color: #e94560;
+    text-align: left;
+  }
+  
+  .interests p {
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+  .interests h3{
+    text-align:left;
+  }
+
+  a {
+    color: #e94560; /* Set your desired dark blue color */
+    text-decoration: none; /* Remove underline if desired */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Optional: Add underline on hover for better UX */
+  }
+  
+  a:visited {
+    color: #e94560; /* Ensure visited links stay dark blue */
+  }
+  
+  a:active {
+    color: #e94560; /* Ensure active links stay dark blue */
+  }

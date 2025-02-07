@@ -1,0 +1,43 @@
+/* Publications.css */
+
+/* General layout for the section */
+.publication {
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Main title styling */
+  .publication-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #1a1a2e;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e94560;
+    padding-bottom: 10px;
+  }
+  
+  /* Subtitle styling */
+  .publication-subtitle {
+    font-size: 1.5rem;
+    color: #1a1a2e;
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  /* Individual publication item styling */
+  .publication-item {
+    font-size: 1rem;
+    color: #4a4a4a;
+    margin-left: 15px;
+    padding: 8px 10px;
+    background-color: #ffffff;
+    border-left: 4px solid #e94560;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+  }
+  
